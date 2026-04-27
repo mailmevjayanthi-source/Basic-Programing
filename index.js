@@ -14,6 +14,9 @@ function isPrime(num) {
 
 console.log('===========user=======');
 
+console.log('====user 2 ========');
+
+
 
 function evenOdd(num) {
   if (num % 2 === 0) {
