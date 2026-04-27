@@ -18,6 +18,7 @@ console.log('====user 2 ========');
 
 
 
+// this function evaluates even or odd
 function evenOdd(num) {
   if (num % 2 === 0) {
     return true;
